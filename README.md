@@ -1,16 +1,23 @@
 ## Hi there 👋
+I'm Vasilis, an undergraduate developer passionate about learning and continuously improving my technical skills.
 
-I'm Vasilis, an undergraduate student who enjoys learning and constanly evolve.
+I enjoy solving problems through code and turning ideas (especially games) into functional projects.
 
-I’m currently working on my thesis about a vr escape room using unity.
+Currently working: 
+- A VR escape room built with Unity as part of my undergraduate thesis.
 
 Tech Stack:
-- Unity (C#)
-- Python
+- Unity (C#) – Game development & VR experiences
+- Python – Data analysis & problem solving
 
-Currently:
-- Learning: Pandas / Scikit-learn 
-- Open to: Internship / Junior Developer / Full-Stack Roles
+Currently Expanding Into:
+- Pandas
+- Scikit-learn
+- Applied data analysis and machine learning fundamentals
+
+Career Goals:
+- Open to Internship, Junior Developer, or Full-Stack opportunities
+- Interested in software development, interactive systems, and data-driven applications
 
 <!--
 **VasilisDimitrakopoulos/VasilisDimitrakopoulos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
